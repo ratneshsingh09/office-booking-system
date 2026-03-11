@@ -51,7 +51,7 @@ office-booking-system
 
 ## How to Run the Project
 
-### 1️⃣ Backend
+### 1️ Backend
 
 ```
 cd Office-booking-system
@@ -66,7 +66,7 @@ http://localhost:8080
 
 ---
 
-### 2️⃣ Frontend
+### 2️ Frontend
 
 ```
 cd office-booking-frontend
